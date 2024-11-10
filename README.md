@@ -6,7 +6,7 @@ Frontend Developer
 
 Hello there! I'm Vladimir, a passionate frontend developer on an exhilarating journey to create immersive and user-friendly web experiences. With a passion for crafting seamless user experiences, I bring a unique blend of technical expertise and a natural adrenaline for adventure to every project.
 
-*   🌍  I'm based in Skopje
+*   🌍  I'm based in Leipzig
 *   ✉️  You can contact me at [vladimir\_trpkovski@outlook.com](mailto:vladimir_trpkovski@outlook.com)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Projects
